@@ -1,0 +1,6 @@
+{
+  "name": "Ismael Bot Screen Share",
+  "description": "Transmissão de tela e Discord Activity em tempo real do Ismael Bot, com streaming WebRTC de baixa latência, visualização própria instantânea e acesso direto sem lobby.",
+  "requestFramePermissions": ["camera", "microphone", "display-capture"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
